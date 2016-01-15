@@ -1,0 +1,28 @@
+name: hannahlane
+favicon: null
+layout_spectrum: 0.18479
+typography_spectrum: 0.14045292232185602
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.375
+  lightness: 0.7370494524948299
+  saturation: 0.12470513605512679
+  rhythmicContrast: 0.7540386212058365
+purpose: []
