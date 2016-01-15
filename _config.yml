@@ -1,6 +1,6 @@
 name: hannahlane
 favicon: null
-layout_spectrum: 0.18479
+layout_spectrum: 0.17978231352753937
 typography_spectrum: 0.14045292232185602
 cta:
   domain: null
@@ -21,7 +21,7 @@ color:
     - '#FFFCE8'
     - '#3E363F'
     - '#DD403A'
-  brandStrength: 0.375
+  brandStrength: 0.3448677957057953
   lightness: 0.7370494524948299
   saturation: 0.12470513605512679
   rhythmicContrast: 0.7540386212058365
